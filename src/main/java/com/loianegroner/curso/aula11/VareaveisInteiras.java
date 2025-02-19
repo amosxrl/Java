@@ -1,4 +1,4 @@
-package com.amos.cursojava.aula11;
+package com.loianegroner.curso.aula11;
 
 public class VareaveisInteiras {
     public static void main(String[] args){
