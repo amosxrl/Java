@@ -5,4 +5,5 @@ public class ClienteService {
         // Lógica para obter o cliente com base no ID da locação
         // ...
         return cliente;
+    }
 }
