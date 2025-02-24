@@ -1,4 +1,4 @@
-package aula02;
+package com.cursoemvideo.curso.aula02
 
 public class Caneta {
     String modelo;

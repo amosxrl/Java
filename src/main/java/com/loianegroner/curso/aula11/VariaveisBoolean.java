@@ -5,5 +5,6 @@ public class VariaveisBoolean {
         boolean ver = true;
         boolean fal = false;
         System.out.println("O valor verdadeiro é " + ver);
+        System.out.println("O valor falso é " + fal);
     }
 }
