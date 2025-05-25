@@ -1,5 +1,5 @@
-package com.cursoemvideo.curso.aula02
-
+package aula02;
+// This code defines a class Caneta with attributes and methods to manage a pen's state and actions.
 public class Caneta {
     String modelo;
     String cor;
