@@ -1,4 +1,4 @@
-package nivel2.media1;
+package com.desafios.nivel2.media1;
 
 import java.io.IOException;
 import java.util.Scanner;
