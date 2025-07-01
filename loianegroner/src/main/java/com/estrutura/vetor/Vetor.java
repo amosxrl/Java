@@ -1,0 +1,12 @@
+package com.estrutura.vetor;
+
+public class Vetor {
+
+	private String[] elementos;
+	
+	public Vetor(int capacidade) {
+		// TODO Auto-generated constructor stub
+		this.elementos = new String[capacidade];
+	}
+
+}
